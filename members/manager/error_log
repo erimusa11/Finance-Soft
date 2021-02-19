@@ -1,0 +1,108 @@
+[24-Nov-2020 17:19:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[24-Nov-2020 17:23:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[24-Nov-2020 23:23:35 Europe/Tirane] PHP Notice:  Undefined index: user_id in /home/dilaxzzk/demo.commercialsoftwareal.com/members/mainPage.php on line 7
+[24-Nov-2020 23:23:35 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/topMenu.php on line 20
+[24-Nov-2020 17:23:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[24-Nov-2020 17:23:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[24-Nov-2020 23:23:57 Europe/Tirane] PHP Notice:  Undefined index: user_id in /home/dilaxzzk/demo.commercialsoftwareal.com/members/mainPage.php on line 7
+[24-Nov-2020 23:23:57 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/topMenu.php on line 20
+[25-Nov-2020 08:10:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[25-Nov-2020 08:27:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[25-Nov-2020 08:28:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[25-Nov-2020 08:28:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[25-Nov-2020 08:28:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:51:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:52:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:52:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:52:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:53:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:53:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:53:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:54:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:56:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:56:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:56:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:56:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:57:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 12:57:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[08-Dec-2020 18:57:23 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/topMenu.php on line 20
+[08-Dec-2020 18:57:23 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/userProfile.php on line 70
+[20-Dec-2020 05:19:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:21:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:21:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:22:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 11:22:27 Europe/Tirane] PHP Notice:  Undefined variable: id_user in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/user-create.php on line 153
+[20-Dec-2020 05:22:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:22:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:22:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:22:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:22:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[20-Dec-2020 05:23:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[26-Dec-2020 05:55:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[26-Dec-2020 05:56:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[26-Dec-2020 11:56:20 Europe/Tirane] PHP Notice:  Undefined index: user_id in /home/dilaxzzk/demo.commercialsoftwareal.com/members/mainPage.php on line 7
+[26-Dec-2020 11:56:20 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/topMenu.php on line 20
+[11-Jan-2021 12:14:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:15:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:15:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:15:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 18:16:01 Europe/Tirane] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/update_products.php on line 4
+[11-Jan-2021 18:16:01 Europe/Tirane] PHP Notice:  Undefined index: productExist in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/update_products.php on line 260
+[11-Jan-2021 18:16:01 Europe/Tirane] PHP Notice:  Undefined index: productCreated in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/update_products.php on line 265
+[11-Jan-2021 18:16:01 Europe/Tirane] PHP Notice:  Undefined index: updateProductSuccess in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/update_products.php on line 270
+[11-Jan-2021 18:16:01 Europe/Tirane] PHP Notice:  Undefined index: deleteProductSuccess in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/update_products.php on line 275
+[11-Jan-2021 12:16:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:17:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:18:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:20:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:21:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:21:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:22:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:23:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:24:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 18:24:43 Europe/Tirane] PHP Notice:  Undefined index: supplierId in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 366
+[11-Jan-2021 12:25:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:25:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:25:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:26:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:27:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:27:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:28:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:29:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:29:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:30:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:30:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:31:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:31:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:31:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:32:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:32:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:32:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:33:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:34:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:34:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:34:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:34:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:36:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 12:46:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 18:46:26 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/topMenu.php on line 20
+[11-Jan-2021 18:46:26 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/userProfile.php on line 70
+[11-Jan-2021 12:46:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[11-Jan-2021 18:46:52 Europe/Tirane] PHP Notice:  Undefined index: user_id in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/session.php on line 5
+[12-Jan-2021 03:08:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:08:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:08:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 09:09:11 Europe/Tirane] PHP Notice:  Undefined variable: id_user in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/user-create.php on line 153
+[12-Jan-2021 03:09:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 03:09:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[12-Jan-2021 09:09:37 Europe/Tirane] PHP Notice:  Undefined variable: id_user in /home/dilaxzzk/demo.commercialsoftwareal.com/members/manager/user-create.php on line 153
+[13-Jan-2021 08:29:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[13-Jan-2021 08:29:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dilaxzzk/demo.commercialsoftwareal.com/functions.php on line 4
+[13-Jan-2021 14:29:29 Europe/Tirane] PHP Notice:  Undefined index: user_id in /home/dilaxzzk/demo.commercialsoftwareal.com/members/mainPage.php on line 7
+[13-Jan-2021 14:29:29 Europe/Tirane] PHP Notice:  Undefined index: role in /home/dilaxzzk/demo.commercialsoftwareal.com/members/topMenu.php on line 20
